@@ -16,7 +16,9 @@ With the XOR function (⊕) each piece is inherently important in the reconstruc
 
 How To Use
 --------------
-[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.aivarsda.certpinning.demo)
+Here is an application that demonstrates how to use the Secret-Key-Split-Util , you can actually use that app to split your secret key and send the key pieces to your email. Then you can use those pieces safely: spread them in your code and reassemble the key when it's needed.
+<br>
+[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
 
 - 1. Splitting the Secret Key:
 ```java
