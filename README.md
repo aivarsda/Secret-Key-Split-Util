@@ -27,7 +27,7 @@ int PIECES_NUM = 5;
 KP keyPieces = Kspl.splitKey(PIECES_NUM, KEY , KEY.length()*8);
 return _keyPieces;
 ```
-Note: if you don't want to leave the key splitting logic in the code, you can remove the Kspl class, after you spread your key pieces in the code. The Kspl class is not used for the key reassembly.
+Note: if you don't want to leave the key splitting logic in the code, you can remove the Kspl class, after you spread your key pieces in the code or passed them to the users. Since the Kspl class is not used for the key reassembly.
  
 - 2. Reassembly of the originally splited key:
  
