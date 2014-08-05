@@ -21,7 +21,7 @@ Here is an android application that demonstrates how to use the Secret Key Split
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
 
 - <b>1. Adding the package:</b>
-Add the KSUtil package to your project.
+<br>Add the KSUtil package to your project.
 
 - <b>2. Splitting the Secret Key:</b>
 ```java
