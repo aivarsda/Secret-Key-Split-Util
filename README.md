@@ -16,7 +16,7 @@ With the XOR function (⊕) each piece is inherently important in the reconstruc
 
 How To Use
 --------------
-Here is an application that demonstrates how to use the Secret-Key-Split-Util , you can actually use that app to split your secret key and send the key pieces to your email. Then you can use those pieces safely: spread them in your code and reassemble the key when it's needed.
+Here is an application that demonstrates how to use the Secret Key Split Util , you can actually use that app to split your secret key and send the key pieces to your email. Then you can use those pieces safely: spread them in your code and reassemble the key when it's needed.
 <br>
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
 
@@ -27,7 +27,7 @@ int PIECES_NUM = 5;
 KP keyPieces = Kspl.splitKey(PIECES_NUM, KEY , KEY.length()*8);
 return _keyPieces;
 ```
-Note: if you don't want to leave the key splitting logic in the code, you can remove the Kspl class, after you spread your key pieces in the code or passed them to the users. Since the Kspl class is not used for the key reassembly.
+Note: if you don't want to leave the key splitting logic in the code, you can remove the Kspl class, after you spread your key pieces in the code or passed them to the users. The Kspl class is not used for the key reassembly.
  
 - <b>2. <b>Reassembly of the originally splited key:</b>
  
