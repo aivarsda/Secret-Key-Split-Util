@@ -21,6 +21,9 @@ Here is an android application that demonstrates how to use the Secret Key Split
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
 
 - <b>1. Splitting the Secret Key:</b>
+Add the KSUtil package to your project.
+
+- <b>2. Splitting the Secret Key:</b>
 ```java
 String KEY = "This is 32 characters long Key !"
 int PIECES_NUM = 5;
@@ -29,7 +32,7 @@ return _keyPieces;
 ```
 Note: if you don't want to leave the key splitting logic in the code, you can remove the Kspl class, after you spread your key pieces in the code or passed them to the users. The Kspl class is not used for the key reassembly.
  
-- <b>2. <b>Reassembly of the originally splited key:</b>
+- <b>3. <b>Reassembly of the originally splited key:</b>
  
 ```java
 ArrayList<String> splitedPiecesArray = new ArrayList<String>();
