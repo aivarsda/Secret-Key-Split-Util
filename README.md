@@ -20,6 +20,12 @@ Here is an android application that demonstrates how to use the Secret Key Split
 <br>
 [![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
 
+[![Get it on Google Play](https://lh3.ggpht.com/43liE4AA4ANIwiTILOBh74J153mrJ6s62z0KwlLmokSxBS_AzhI-nwzL72_Cx0KoeSQ=h310-rw)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
+[![Get it on Google Play](https://lh3.ggpht.com/aHa067g2iwH56jX2QUDgQXvr8VFVx_mzxlYa9VFv4Zfcp5H-Ggs9z9qQJozMqBfPLQ=h310-rw)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
+[![Get it on Google Play](https://lh5.ggpht.com/FJX7HlzxaZs_A0ZwqnThvG7ZG3dCieixO_7HN3A5pCQvV1XmWrPZeBrOmGpwPMgodipU=h310-rw)](https://play.google.com/store/apps/details?id=com.aivarsda.keysplitter)
+
+
+
 - <b>1. Adding the package:</b>
 <br>Add the KSUtil package to your project.
 
